@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Baset Sarker! 👋
 
-<!--
-**baset-sarker/baset-sarker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a researcher and software engineer passionate about AI, embedded systems, and edge computing. 
+I love working on real-world problems and optimizing AI models for resource-constrained devices.
 
-Here are some ideas to get you started:
+##  Skills
+- **Programming**: Python, C, C++, Go, Java
+- **AI/ML**: TensorFlow, PyTorch, Computer Vision
+- **Hardware**: Jetson Nano, KV260, Raspberry Pi, Edge TPUs, FPGA
+- **DevOps**: Docker, Jenkins, AWS, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **Vision-Based Prosthetic Hand**: Implemented deep learning for real-time control on edge devices.
+- **Autonomous Wheelchair**: Developed a vision-based navigation system.
+- **Microplastic Detection System**: Built an AI-powered real-time detection tool.
+
+##  Connect with Me
+- 🌐 [Website](https://baset-sarker.github.io/)
+- 🔗 [LinkedIn](https://linkedin.com/in/baset-sarker)
+- 🐙 [GitHub](https://github.com/baset-sarker)
+- 📧 [Email](mailto:sarkerm@clarkson.edu)
+
+Let's build something amazing together! 🚀
