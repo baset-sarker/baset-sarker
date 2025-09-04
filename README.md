@@ -8,6 +8,6 @@ My work spans deep learning, computer vision, large language models, etc.
 - 🌐 [Website](https://baset-sarker.github.io/)
 - 🔗 [LinkedIn](https://linkedin.com/in/baset-sarker)
 - 🐙 [GitHub](https://github.com/baset-sarker)
-- 📧 [Email](mailto:sarkerm@clarkson.edu)
+- 📧 [Email](mailto:chayan2005@gmail.com)
 
 Let's build something amazing together! 🚀
